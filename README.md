@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Muhammad Anas Khan
 👨‍💻 Frontend Web Developer<br>🌱 Learning React.js & Modern Frontend Development<br>🔭 Working on daily practice<br>💡 Interested in UI/UX, clean code & performance<br>📈 Sharing progress on GitHub & LinkedIn<br>📘 Always coding and exploring new tech<br>📬 Contact: anaskha3451@gmail.com
 
 
