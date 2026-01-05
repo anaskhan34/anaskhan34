@@ -21,6 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=anaskhan34&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🎯 Fun / Personal Goals
+# 🎯 Fun / Personal Goals
 🚀 Building scalable web apps • 💡 Learning new tech stacks • 🏃‍♂️ Fitness & problem-solving • 🎮 Gaming 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
