@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Frontend Web Developer<br>🌱 React.js & Modern Frontend Development<br>🔭 Working on daily practice<br>💡 Interested in UI/UX, clean code & performance<br>📈 Sharing progress on GitHub & LinkedIn<br>📘 Always coding and exploring new tech
+👨‍💻 Full stack Web Developer<br>🔭 Working on daily practice<br>💡 Interested in UI/UX, clean code & performance<br>📈 Sharing progress on GitHub & LinkedIn<br>📘 Always coding and exploring new tech
 
 
 ## 🌐 Socials:
